@@ -1,0 +1,4 @@
+# ignore the folder .vscode
+.vscode
+# ignore the folder data-province-saving
+data-province-saving
