@@ -2,3 +2,6 @@
 .vscode
 # ignore the folder data-province-saving
 data-province-saving
+
+# ignore temp_data
+temp_data
